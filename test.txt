@@ -1,0 +1,11 @@
+
+This is a sample file to test your GitHub workflow.
+
+You can modify the content of this file to introduce different code patterns and test how your custom code review assistant responds.
+
+For example, you could add:
+- Code with potential syntax errors
+- Code that violates style guidelines
+- Code with security vulnerabilities (simulated or using test cases)
+
+Remember to replace this placeholder with your actual code when you're ready for a real code review.
